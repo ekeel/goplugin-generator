@@ -15,5 +15,5 @@ Download a [release](https://github.com/ekeel/goplugin-generator/releases).
 #### Example
 
 ```bash
-goplugin-generator -name=pluginNameHere -dir=/tmp/plugin/dir
+./goplugin-generator -name=pluginNameHere -dir=/tmp/plugin/dir
 ```
